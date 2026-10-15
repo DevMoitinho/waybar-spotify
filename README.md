@@ -2,7 +2,7 @@
  
 A lightweight [Waybar](https://github.com/Alexays/Waybar) module that shows the song currently playing on Spotify as a smooth, scrolling text.
  
-![Preview](preview.gif)
+![Preview](preview-1.gif)
  
 ## Features
  
