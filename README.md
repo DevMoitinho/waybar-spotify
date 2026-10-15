@@ -30,7 +30,7 @@ A lightweight [Waybar](https://github.com/Alexays/Waybar) module that shows the 
 2. Copy the script to your Waybar scripts folder and make it executable:
 ```bash
    mkdir -p ~/.config/waybar/scripts
-   cp waybar-spotify.sh ~/.config/waybar/scripts/
+   cp src/waybar-spotify.sh ~/.config/waybar/scripts/
    chmod +x ~/.config/waybar/scripts/waybar-spotify.sh
 ```
  
